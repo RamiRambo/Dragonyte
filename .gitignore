@@ -163,3 +163,4 @@ dragonyte_project/
 dragonyte_project/bin/activate.csh
 dragonyte_project/bin/pip
 .gitignore
+.DS_Store
