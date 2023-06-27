@@ -1,0 +1,13 @@
+id,Category,Name,Price_liter,Price_liter_normalized,Alcohol_perct,Alcohol_perct_normalized
+1,1,Ale,6.106,1.73,5.50%,-21.46
+2,1,Weissbier/Weizen/Wheat Beer,5.978,1.64,5.00%,-8.42
+3,1,Flavoured/Mixed Lager,3.253,-0.17,5%,-1.02
+4,1,Standard Lager,3.952,0.29,5%,1.58
+7,1,Non Alcoholic Beer,2.518,-0.66,1%,-24.00
+8,1,Lager,3.951,0.29,5%,1.58
+9,1,Dark Beer,3.893,0.25,5%,1.58
+10,1,Premium Lager,5.002,0.99,5.50%,4.19
+11,1,Mid-Priced Lager,2.930,-0.39,4.50%,-1.02
+12,1,Economy Lager,1.782,-1.15,3.50%,-6.24
+16,4,RTDs/High-Strength Premixes,1.436,-1.39,9%,22.45
+17,5,Cider/Perry,4.183,0.45,6%,6.80
