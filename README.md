@@ -16,6 +16,8 @@ This project has been done collectively with the contributions of :
 ❥ Said Kardiç
 
 
+
+
 ## *Description*
 
 ❥ ***Context***
@@ -24,11 +26,14 @@ The Dragonyte Brewery-Business challenge has been presented & introduced to us o
 
 __*Dragonyte/Untouched_Business_case/\**__
 
+
+
 ❥ ***Cleaning***
 
 The files received in <u>*Dragonyte/Untouched_Business_case*</u> were cleaned, the scripts have been wirtten in jupyter notebooks and can be found in the following folder : 
 
 __*Dragonyte/Cleaninng_works*__
+
 
 The cleaning operations undertaken range from :
 
@@ -56,6 +61,8 @@ The final CSVs cleaned and used in Tableau can be found in the folder :
     
 __*Dragonyte/Cleaned_data_sets/\**__
 
+
+
 ## *Installation*
 
 The following libraries should be installed : 
@@ -66,6 +73,8 @@ The following libraries should be installed :
 
 The scripts were run with Python3.11 .
 
+
+
 ## *Visuals*
 
 The presentation was done with Dashboards made on Tableau. The final presentation can be found in the following file : 
@@ -75,6 +84,8 @@ __*Dragonyte/Dragonyte_Accenture_23_06_2023.twbx*__
 Additionally, the drafts made in Tableau can be found in the following folder : 
     
 __*Dragonyte/Draft_visualizations/\**__
+
+
 
 
 ## *Timeline*
