@@ -53,7 +53,8 @@ The cleaning operations undertaken range from :
 Note that merges & dataframe concatenations have been performed in Tableau.
 
 The final CSVs cleaned and used in Tableau can be found in the folder : 
-    __*Dragonyte/Cleaned_data_sets/\**__
+    
+__*Dragonyte/Cleaned_data_sets/\**__
 
 ## *Installation*
 
@@ -68,10 +69,12 @@ The scripts were run with Python3.11 .
 ## *Visuals*
 
 The presentation was done with Dashboards made on Tableau. The final presentation can be found in the following file : 
-    __*Dragonyte/Dragonyte_Accenture_23_06_2023.twbx*__
+    
+__*Dragonyte/Dragonyte_Accenture_23_06_2023.twbx*__
 
 Additionally, the drafts made in Tableau can be found in the following folder : 
-    __*Dragonyte/Draft_visualizations/\**__
+    
+__*Dragonyte/Draft_visualizations/\**__
 
 
 ## *Timeline*
