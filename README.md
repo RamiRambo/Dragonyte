@@ -19,14 +19,19 @@ This project has been done collectively with the contributions of :
 ## *Description*
 
 ❥ ***Context***
+
 The Dragonyte Brewery-Business challenge has been presented & introduced to us on the 19/06 by Accenture. The files provided along the case can be found in the folder : 
+
 <u>*Dragonyte/Untouched_Business_case*</u>
 
 ❥ ***Cleaning***
+
 The files received in <u>*Dragonyte/Untouched_Business_case*</u> were cleaned, the scripts have been wirtten in jupyter notebooks and can be found in the following folder : 
+
 <u>*Dragonyte/Cleanin:g_works*</u>
 
 The cleaning operations undertaken range from :
+
     ❥ Open files with the correct delimiter, 
     
     ❥ Deleting empty rows, 
@@ -48,6 +53,7 @@ The cleaning operations undertaken range from :
 Note that merges & dataframe concatenations have been performed in Tableau.
 
 The final CSVs cleaned and used in Tableau can be found in the folder : 
+
     <u>*Dragonyte/Cleaned_data_sets/\**</u>
 
 ## *Installation*
