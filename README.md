@@ -22,13 +22,13 @@ This project has been done collectively with the contributions of :
 
 The Dragonyte Brewery-Business challenge has been presented & introduced to us on the 19/06 by Accenture. The files provided along the case can be found in the folder : 
 
-<u> Dragonyte/Untouched_Business_case/* </u>
+__*Dragonyte/Untouched_Business_case/\**__
 
 ❥ ***Cleaning***
 
 The files received in <u>*Dragonyte/Untouched_Business_case*</u> were cleaned, the scripts have been wirtten in jupyter notebooks and can be found in the following folder : 
 
-<u>*Dragonyte/Cleaninng_works*</u>
+__*Dragonyte/Cleaninng_works*__
 
 The cleaning operations undertaken range from :
 
@@ -53,8 +53,7 @@ The cleaning operations undertaken range from :
 Note that merges & dataframe concatenations have been performed in Tableau.
 
 The final CSVs cleaned and used in Tableau can be found in the folder : 
-
-    <u>*Dragonyte/Cleaned_data_sets/\**</u>
+    __*Dragonyte/Cleaned_data_sets/\**__
 
 ## *Installation*
 
@@ -69,10 +68,10 @@ The scripts were run with Python3.11 .
 ## *Visuals*
 
 The presentation was done with Dashboards made on Tableau. The final presentation can be found in the following file : 
-    <u>*Dragonyte/Dragonyte_Accenture_23_06_2023.twbx*</u>
+    __*Dragonyte/Dragonyte_Accenture_23_06_2023.twbx*__
 
 Additionally, the drafts made in Tableau can be found in the following folder : 
-    <u>*Dragonyte/Draft_visualizations/\**</u>
+    __*Dragonyte/Draft_visualizations/\**__
 
 
 ## *Timeline*
