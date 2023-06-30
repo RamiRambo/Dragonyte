@@ -1,5 +1,5 @@
 
-# DRAGONYTE BREWERY - BUSINESS CHALLENGE
+# DRAGONYTE BREWERY - BUSINESS CHALLENGE - TEAM 4
 
 ![Dragonyte logo (Image)](dragonyte_logo.png)
 
