@@ -7,13 +7,13 @@
 
 This project has been done collectively with the contributions of : 
 
-❥ Marco Bove
+❥ Marco Bove (https://github.com/marcomisco)
 
-❥ Ramina Chamileva
+❥ Ramina Chamileva (https://github.com/RamiRambo)
 
-❥ Natalia Evgrafova
+❥ Natalia Evgrafova (https://github.com/natalievgrafova)
 
-❥ Said Kardiç
+❥ Said Kardiç (https://github.com/SaidKardic)
 
 
 
@@ -30,7 +30,7 @@ __*Dragonyte/Untouched_Business_case/\**__
 
 ❥ ***Cleaning***
 
-The files received in <u>*Dragonyte/Untouched_Business_case*</u> were cleaned, the scripts have been wirtten in jupyter notebooks and can be found in the following folder : 
+The files received in <u>*Dragonyte/Untouched_Business_case*</u> were cleaned, the scripts have been written in jupyter notebooks and can be found in the following folder : 
 
 __*Dragonyte/Cleaninng_works*__
 
